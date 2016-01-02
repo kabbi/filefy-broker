@@ -1,0 +1,22 @@
+{
+  "name": "filefy-broker",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "kabbi <userdima@gmail.com>",
+  "private": false,
+  "main": [
+    "dist/filefy-broker.js",
+    "dist/filefy-broker.min.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "globals"
+  ]
+}

@@ -1,0 +1,1 @@
+export const CLOSE_REASON_NO_SESSION = 4000;
